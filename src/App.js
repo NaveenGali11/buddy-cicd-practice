@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Buddy  Ci/Cd Test Done
+          Buddy  Ci/Cd Test Done !
         </a>
       </header>
     </div>
